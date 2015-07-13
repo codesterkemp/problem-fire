@@ -1,0 +1,30 @@
+CODY
+
+How to use javascript libraiers
+
+jquery
+underscore
+lo dash
+ramda
+
+jenkins
+
+selenium j
+
+    nokogiri web scraping
+
+    anome webcrawler
+
+    crack to grab XML
+
+    bug trackers
+    jira or pivotal tracker or asana test, rails
+
+    jenkins notifier
+
+    unix grep   cat  sed  cut
+
+    grab them all firefox regression testing    
+
+    siege
+
